@@ -1,8 +1,10 @@
 # Hi 👋 I'm Muskan
 
-📊 Aspiring Data Scientist | 📈 Machine Learning | 🧠 Data Analytics  
+📊  Data Scientist | 🤖 Machine Learning | 🧠 Natural Language Processing | 📈 Data Analytics & Visualization
 
-I enjoy working with data, finding patterns, and building models that solve real-world problems.
+
+I am a self-driven Data Science fresher with a strong interest in transforming data into actionable insights. I actively build projects in Data Science, NLP, Business Intelligence, and Large Language Models, focusing on practical, real-world applications.
+
 
 ---
 
@@ -20,16 +22,40 @@ I enjoy working with data, finding patterns, and building models that solve real
 - Python
 - SQL
 
-**Data Analysis**
+**Data Analysis & Visualization**
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+
+**Business Intelligence (BI)**
+- Power BI
+- Tableau
+- Dashboard Design
+- Data Visualization 
 
 **Machine Learning**
 - Scikit-learn
 - Regression & Classification
+- Feature Engineering
 - Model Evaluation
+
+**Natural Language Processing (NLP)**
+- Text Preprocessing
+- Tokenization & Lemmatization
+- TF-IDF & Bag of Words
+- Sentiment Analysis
+- Text Classification
+- NLP with Python
+
+**Large Language Models (LLMs) & AI**
+- Fundamentals of Large Language Models
+- Transformer & GPT basics
+- Prompt Engineering
+- Working with AI APIs
+- Text Generation & Analysis
 
 **Tools**
 - Jupyter Notebook
@@ -39,8 +65,6 @@ I enjoy working with data, finding patterns, and building models that solve real
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan688&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan688&layout=compact&theme=dark)
 
