@@ -64,22 +64,14 @@ I am a self-driven Data Science fresher with a strong interest in transforming d
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan688&layout=compact&theme=dark)
-
----
-
 ## 📂 Projects (Coming Soon 🚧)
-- 📊 Exploratory Data Analysis
-- 🏠 House Price Prediction
-- 📉 Sales Forecasting
-- 👥 Customer Churn Prediction
+- 📊 Demand Forecasting & Inventory Optimization using Machine Learning 
+- 🏠 Cost-Sensitive Customer Churn & Risk Prediction using Machine Learning
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: your_email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: muskangarg688@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muskan-muskan0077/
 
 ⭐ Thanks for visiting my profile!
