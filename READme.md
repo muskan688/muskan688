@@ -36,7 +36,8 @@ I am a Data Science graduate with hands-on experience across the full data scien
 - Neural Network-based Regression   
 
 ### NLP & LLMs
-- Text Classification & Sentiment Analysis  
+- Text Classification & Sentiment Analysis
+-  EV-Truck-Route-Planner-AI-Driven-Routing-Optimization
 
 
 ### Analytics & BI
