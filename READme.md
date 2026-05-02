@@ -18,7 +18,7 @@ I'm an **AI Engineer** with hands-on experience shipping end-to-end AI systems �
 - 🎓 **M.Sc. Data Science** — Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 - 🧪 Thesis: *Robust 2-Stage Optimization with Applications in Radiation Therapy*
 - 💼 Ex: **Data Science Intern @ Oeson Learning** | **Business Support Analyst @ British Telecom**
-- 🔭 Currently building: **Demand Forecasting & Customer Churn Prediction** systems
+- 🔭 Currently building: **Autonomous AI Research & Due Diligence Agent (LangGraph, Claude API)** systems
 - 🤗 Live demos: [Hugging Face Spaces](https://huggingface.co/muskan688)
 - 📬 Reach me: [muskangarg688@gmail.com](mailto:muskangarg688@gmail.com)
 
