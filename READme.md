@@ -16,7 +16,7 @@ I'm a **Data Science graduate** with hands-on experience across the full data sc
 
 - 🌍 Based in **Germany**
 - 🎓 **MSc Data Science** | Machine Learning | Deep Learning | NLP & Analytics
-- 🔭 Currently building: **Demand Forecasting & Customer Churn Prediction** systems
+- 🔭 Currently building: **Autonomous AI Research & Due Diligence Agent (LangGraph, Claude API)** systems
 - 📬 Reach me: [muskangarg688@gmail.com](mailto:muskangarg688@gmail.com)
 
 ---
