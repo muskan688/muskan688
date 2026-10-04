@@ -29,9 +29,10 @@ Also: [document intelligence agent](https://github.com/muskan688/doc-intelligenc
 
 ## Experience and education
 
+- **AI & Software Development Intern**, Gaytes Information Systems (11/2025 to 07/2026): FastAPI and Docker services, Python pipelines with Hugging Face models, an AI proof of concept with agents and RAG, fine-tuning experiments.
 - **Data Science Intern**, Oeson Learning (11/2024 to 02/2025): ETL and data validation in Python and pandas, model served through FastAPI.
 - **Business Support Advisor**, British Telecom (08/2021 to 09/2022): SQL pipelines and Power BI dashboards for internal teams.
-- **M.Sc. Data Science**, FAU Erlangen-Nürnberg (2022 to 2025). Thesis: robust two-stage stochastic optimisation for radiation therapy planning, implemented in Python.
+- **M.Sc. Data Science**, FAU Erlangen-Nürnberg (2022 to 2025). Thesis: robust two-stage stochastic optimisation for radiation therapy planning, implemented in Python ([code](https://github.com/muskan688/robust-two-stage-optimization)).
 
 ## Contact
 
