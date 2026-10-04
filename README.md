@@ -2,7 +2,7 @@
 
 M.Sc. Data Science (FAU Erlangen-Nürnberg). Based in Nürnberg, moving to Munich.
 
-I work mainly with SQL, Power BI and Python. My background is in reporting pipelines and data validation (British Telecom, Oeson Learning). My recent projects cover SQL data pipelines, forecasting, A/B testing and LLM-based document extraction.
+I work mainly with SQL, Power BI and Python. My background is in reporting pipelines and data validation (British Telecom, Oeson Learning). My recent projects cover SQL and dbt data pipelines, forecasting, A/B testing and LLM-based document extraction.
 
 ## Skills
 
@@ -12,20 +12,20 @@ I work mainly with SQL, Power BI and Python. My background is in reporting pipel
 | BI and reporting | Power BI (DAX, Power Query), Excel, Streamlit, Plotly |
 | Machine learning | scikit-learn, LightGBM, statsmodels, time-series backtesting, A/B test design |
 | NLP and LLMs | Hugging Face Transformers (FinBERT), LangChain, LangGraph, Claude API |
-| Engineering | ETL pipelines, FastAPI, Docker, MLflow, pytest, Git and GitHub Actions |
+| Engineering | ETL pipelines, dbt, data modelling (star schema), FastAPI, Docker, MLflow, pytest, Git and GitHub Actions |
 
 ## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [SEC financials in PostgreSQL](https://github.com/muskan688/sec-financials-sql) | Annual filings of 12 companies loaded into PostgreSQL, with KPI views, 10 automated data quality checks and 12 analysis queries | Python, PostgreSQL, SQL |
+| [SEC financials in PostgreSQL](https://github.com/muskan688/sec-financials-sql) | Annual filings of 12 companies loaded into PostgreSQL, with KPI views, 10 automated data quality checks, 12 analysis queries and a Power BI report | Python, PostgreSQL, SQL, Power BI |
+| [ServiceNow incident analytics](https://github.com/muskan688/itsm-incident-analytics) | A real ServiceNow incident log (24,918 incidents, 141,712 events) modelled with dbt: staging, star schema, KPI tables and 52 automated checks | dbt, PostgreSQL, SQL, Python |
+| [SteelFlow data pipeline](https://github.com/muskan688/steelflow-data-pipeline) | Bronze/silver/gold pipeline for simulated rolling mill data from three sources, with a star schema, 8 data quality checks and an Isolation Forest anomaly step | Python, SQL, SQLite, scikit-learn |
 | [German electricity price forecasting](https://github.com/muskan688/german-electricity-price-and-residual-load-forecasting) | Day-ahead price and residual-load forecasts from SMARD data, with rolling-origin backtests that avoid leakage | Python, LightGBM, SARIMAX, MLflow, Streamlit |
 | [A/B test design and analysis](https://github.com/muskan688/ab-test-experimentation) | Power analysis, guardrail metrics and sequential testing on a simulated checkout experiment | Python, SciPy, statsmodels |
-| [Machine tool market analysis](https://github.com/muskan688/machine-tool-market) | UN Comtrade data in a star schema, with Power BI measures (DAX) and a short forecast | Python, Power Query, DAX |
 | [Financial sentiment classifier](https://github.com/muskan688/financial-sentiment-classifier) | FinBERT and DistilBERT fine-tuned on Financial PhraseBank: 96.7% vs 95.6% accuracy, mean of 3 runs | Python, Hugging Face Transformers |
-| [ESG report extractor](https://github.com/muskan688/esg-report-extractor) | Pulls sustainability KPIs out of PDF reports and normalises units | Python, Claude API, chromadb, Streamlit, Docker |
 
-Also: [document intelligence agent](https://github.com/muskan688/doc-intelligence-agent) (LangGraph and Claude API) and [fraud detection with a graph attention network](https://github.com/muskan688/fraud-detection-gnn).
+Also: [machine tool market analysis](https://github.com/muskan688/machine-tool-market) (Power Query and DAX), [ESG report extractor](https://github.com/muskan688/esg-report-extractor), [document intelligence agent](https://github.com/muskan688/doc-intelligence-agent) (LangGraph and Claude API) and [fraud detection with a graph attention network](https://github.com/muskan688/fraud-detection-gnn).
 
 ## Experience and education
 
